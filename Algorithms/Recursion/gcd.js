@@ -9,4 +9,4 @@ function gcd(num1, num2) {
 
 }
 
-console.log(gcd(15, 12))
+console.log(gcd(15, 12)) //3
